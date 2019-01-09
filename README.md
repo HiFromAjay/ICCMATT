@@ -1,5 +1,9 @@
 # ICCMATT
-ICCMATT (Inter-Component Communications Modeling, Analysis, and Testing Tool) is an eclipse plug-in tool. It helps in analyzing and testing inter-component communications of android applications. It takes an android application source code as input and generates an inter-component communication graph, a security report, and test cases.
+ICCMATT (Inter-Component Communications Modeling, Analysis, and Testing Tool) is an eclipse plug-in tool. It helps in analyzing and testing inter-component communications of android applications. It takes an android application source code as input and generates an inter-component communication graph, a security report, and test cases.</br>
+Research papers:</br>
+https://ieeexplore.ieee.org/abstract/document/7283037</br>
+https://www.researchgate.net/publication/329553659
+
 
 # How to use the tool?
 
